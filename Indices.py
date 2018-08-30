@@ -8,6 +8,7 @@ output_directory = "D:\\Indices\\output\\"
 
 targets = ["DOW30", "SP500", "NSDQ"]
 
+files2 = "test"
 
 files = {}
 
